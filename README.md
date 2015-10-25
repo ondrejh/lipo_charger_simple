@@ -1,2 +1,2 @@
 # lipo_charger_simple
-Simple charger
+Simple lipol charger schematic ...
