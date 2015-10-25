@@ -1,2 +1,3 @@
 # lipo_charger_simple
 Simple lipol charger schematic ...
+![charger schematic](/schematic.png?raw=true)
